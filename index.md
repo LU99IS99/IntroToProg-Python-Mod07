@@ -37,4 +37,5 @@ Text files and binary files differ in the way they store and represent data:
 To derive a new class from the “Exception” class in Python, you can create a new class
 and make it a subclass of “Exception”. This allows you to define a custom exception
 type with specific behavior or properties. Here's is an example about “Exception” class:
-![Example of Exception]()#### 
+![Example of Exception](https://github.com/LU99IS99/IntroToProg-Python-Mod07/blob/main/image.png)
+##### Example of Exception
