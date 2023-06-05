@@ -39,3 +39,26 @@ and make it a subclass of “Exception”. This allows you to define a custom ex
 type with specific behavior or properties. Here's is an example about “Exception” class:
 ![Example of Exception](https://github.com/LU99IS99/IntroToProg-Python-Mod07/blob/main/image.png)
 ##### Example of Exception
+In this example, CustomException is a new class derived from Exception. The pass
+statement is used to indicate that the class doesn't have any additional methods or
+properties defined. I might create a class derived from the “Exception” class when I
+want to handle a specific type of error or exceptional situation in my code. It allows me
+to define my own custom exception with a unique name and behavior.
+### Markdown language
+Markdown is a simple and easy-to-use language for formatting text. It allows me to add
+basic formatting elements like headers, lists, links, and bold or italic styles to my plain
+text. The great thing about Markdown is that I don't need to worry about complex
+formatting codes or tags. I can write my content using plain text, and when IA convert it
+to HTML or other formats, the Markdown processor will handle the formatting for me. It's
+widely used for creating documentation, writing blog posts, and formatting text on
+platforms like GitHub.
+Use Markdown on a GitHub webpage
+To use Markdown on a GitHub webpage, follow these easy steps:
+##### ● Create or open a file with a .md or .markdown extension on GitHub repository.
+##### ● Click the "Edit" button to enter the editing mode.
+##### ● Write content using simple Markdown syntax.
+##### ● Use # for headers, - or * for lists, [text](link) for links, **text** for bold, and _text_ for italic.
+##### ● Preview changes to see how the content will appear.
+##### ● Make any necessary adjustments.
+##### ● Provide a commit message and save changes.
+##### ● GitHub will render the Markdown content and display it on the webpage.
